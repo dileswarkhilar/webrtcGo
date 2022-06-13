@@ -1,0 +1,23 @@
+.text {
+    font-size: 19px;
+    font-weight: normal;
+    line-height: 1.6;
+    color: #c4C5C5;
+    margin-bottom: 30px;
+}
+
+.cardwarpper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 6rem;
+}
+
+.signinwrapper{
+    margin-top: 20px;
+
+}
+
+.hasinvite{
+    color: #014a9c;
+}
